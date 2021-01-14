@@ -13,5 +13,5 @@ We adopted an approach to predict the top three categories for each user and the
 The cold start problem is addressed by considering the characteristics of the new user like age, gender, profession and location.
 
 <p align="left">
-<img width="400" height="500" src="images/model_schematic_crop.PNG">
+<img width="400" height="500" src="images/model_schematic_crop.png">
 </p>
