@@ -17,4 +17,4 @@ The cold start problem is addressed by considering the characteristics of the ne
 <img width="500" height="450" src="images/model_schematic_crop.png">
 </p>
 
-The content based prediction is based on a model trained for each user separately. It is possible to decrease the implemntation strategy by training a single model based on the data of all the users. A compromise between these two strategies is to train a model for a few segments of the users. The users can be divided into segments based on, for example, demographhics.
+The content based prediction is based on a model trained for each user separately. It is possible to decrease the complexity of implementation pipeline by training a single model based on the data of all the users. A compromise between these two strategies is to train a model for a few segments of the users. The users can be divided into segments based on, for example, demographhics.
